@@ -131,3 +131,5 @@ Organizations that build trust view a once-a-week check-in between employees and
 Asking those four questions every week for an entire year will ensure that employees build trust with their team leaders. It doesn’t appear to matter whether the check-in happens in person, on the phone, by email, or in an app. What matters is simply that it happens. During a check-in both people can talk about the specifics of the work the employee is doing, the challenges that might be arising, and what the team leader can do to help. Each sharing of a challenge and each small action to provide support help build trust between them. But not only that: Naming the specific activities they loved the previous week keeps employees’ loves front and center, tied tightly to the real work that needs to get done.
 
 
+https://hbr.org/2022/05/designing-work-that-people-love
+
